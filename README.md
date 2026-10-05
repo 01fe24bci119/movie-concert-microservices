@@ -342,4 +342,4 @@ A complete, screenshot-by-screenshot and video verification report mapped to the
 | :--- | :--- |
 | **Manasa** | Event Service, User Service, Initial Base Architecture |
 | **Renuka** | Seat Service, Payment Service, Booking Service Orchestration |
-| **Aditya** | **API Gateway (Port 8000)**, **Docker Compose Multi-Container Orchestration**, **Load Testing Suite (Locust & Custom Load Generator)**, **Performance Benchmarking (100, 1K, 10K Workloads)**, **Visualization Dashboard & Benchmark Report** |
+| **Aditya** | API Gateway (Port 8000), Docker Compose Multi-Container Orchestration, Load Testing Suite (Locust & Custom Load Generator), Performance Benchmarking (100, 1K, 10K Workloads), Visualization Dashboard & Benchmark Report |
